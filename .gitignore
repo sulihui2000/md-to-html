@@ -1,0 +1,8 @@
+node_modules/
+.superpowers/
+dist/
+backups/
+.tmp-published/
+.tmp-dist/
+.verify/
+blog.config.json
